@@ -4,4 +4,4 @@
   <li>👀 I’m interested in software, hardware, roads, traffic and cycling!
   <li>📫 How to reach me? You can contact me at <a href="mailto:thewindowshero@gmail.com">thewindowshero@gmail.com</a>.
   <li>Watch my YouTube videos: <a href="https://www.youtube.com/duweltech/featured">https://www.youtube.com/@duweltech/featured</a></li>
-  <li>Visit my website: <a href="https://tiboduwel.github.io">https://tiboduwel.github.io</a></li>
+  <li>Visit my website: <a href="tiboduwel.github.io/index/">tiboduwel.github.io/index/</a></li>
